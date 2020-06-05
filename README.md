@@ -113,3 +113,5 @@ Interested in joining the Bridgetown Core Team? Send a DM to Jared on the [Bridg
 ## License
 
 The gem is available as open source under the terms of the [MIT LICENSE](./LICENSE) file.
+
+
